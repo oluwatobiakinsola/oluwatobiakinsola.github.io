@@ -1,1 +1,1 @@
-# oluwatobiakinsola.github.io
+In this casestudy, I used the FitBit tracker dataset which was gotten from kaggle to identify trends in how consumers use non-Bellabeat smart devices to apply insights into Bellabeat's marketing strategy.
